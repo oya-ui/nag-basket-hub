@@ -10,7 +10,7 @@ const SNSSection = () => {
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
-            href="https://www.instagram.com/"
+            href="https://www.instagram.com/nag_qufwu/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-3 bg-primary text-primary-foreground px-8 py-4 rounded-xl font-sans font-medium hover:bg-accent transition-colors"
