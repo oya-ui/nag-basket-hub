@@ -24,7 +24,7 @@ const HeroSection = () => {
           楽しく、本気で、バスケを。
         </p>
         <a
-          href="https://www.instagram.com/"
+          href="https://www.instagram.com/nag_qufwu/"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-8 py-3 rounded-full font-sans font-medium text-sm hover:bg-accent transition-colors"
